@@ -1,0 +1,20 @@
+
+data = {
+    "ID": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15],
+    'Name': [
+        'John Doe', 'Jane Smith', 'Alice Brown', 'Bob Johnson', 
+        'Charlie Davis', 'Emily Clark', 'Frank Moore', 'Grace Lee', 
+        'Henry White', 'Ivy Wilson', 'Jack Taylor', 'Kelly Brown', 
+        'Liam Martin', 'Mia Thompson', 'Noah Scott'
+    ],
+    'Subjects': [
+        'Physics Chemistry Math', 'Biology Chemistry Hindi', 
+        'Math Physics Computer Science', 'Hindi Biology Chemistry', 
+        'Math Chemistry Physics', 'Biology Math Computer Science', 
+        'Physics Computer Science Biology', 'Hindi Chemistry Math', 
+        'Computer Science Math Physics', 'Biology Chemistry Physics', 
+        'Hindi Math Biology', 'Physics Computer Science Hindi', 
+        'Math Chemistry Biology', 'Computer Science Physics Math', 
+        'Hindi Biology Chemistry'
+    ]
+}
